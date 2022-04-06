@@ -1,2 +1,3 @@
-# calc
-my own html, css &amp; javaScript calculatorproject
+# Enterprise
+
+Java project, built using NetBeans IDE
